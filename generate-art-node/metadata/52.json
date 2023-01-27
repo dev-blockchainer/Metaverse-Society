@@ -1,0 +1,117 @@
+{
+  "hash": "031542037412530614121130100140110",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 54
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 7
+    },
+    {
+      "4": 12
+    },
+    {
+      "5": 30
+    },
+    {
+      "6": 14
+    },
+    {
+      "12": 1
+    },
+    {
+      "13": 0
+    },
+    {
+      "10": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 0
+    }
+  ],
+  "edition": 52,
+  "date": 1657392422180,
+  "attributes": [
+    {
+      "id": 3,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "original"
+    },
+    {
+      "id": 54,
+      "layer": "_body",
+      "name": "tongue_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 7,
+      "layer": "_ears",
+      "name": "earring_chain_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 12,
+      "layer": "_eyes",
+      "name": "eyes_diamond",
+      "rarity": "rare"
+    },
+    {
+      "id": 30,
+      "layer": "_head",
+      "name": "hat_explorer_camouflage",
+      "rarity": "original"
+    },
+    {
+      "id": 14,
+      "layer": "_eyes_props",
+      "name": "glass_corzi_turquesa",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "_neck",
+      "name": "chain necklace_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_tongue",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

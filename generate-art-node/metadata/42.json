@@ -1,0 +1,117 @@
+{
+  "hash": "03130283304451061412013010414090",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 30
+    },
+    {
+      "2": 83
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 4
+    },
+    {
+      "5": 10
+    },
+    {
+      "6": 14
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "10": 4
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 42,
+  "date": 1657392387984,
+  "attributes": [
+    {
+      "id": 3,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "original"
+    },
+    {
+      "id": 30,
+      "layer": "_body",
+      "name": "smile_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 83,
+      "layer": "_body_props",
+      "name": "vest_explorer_camouflage",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 4,
+      "layer": "_eyes",
+      "name": "eyes_eagle_green",
+      "rarity": "original"
+    },
+    {
+      "id": 10,
+      "layer": "_head",
+      "name": "bull_horns_middle_marble",
+      "rarity": "original"
+    },
+    {
+      "id": 14,
+      "layer": "_eyes_props",
+      "name": "glass_corzi_turquesa",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 4,
+      "layer": "_goatee_smoking",
+      "name": "smoking_colors",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

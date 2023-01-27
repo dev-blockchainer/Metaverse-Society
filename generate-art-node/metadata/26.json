@@ -1,0 +1,99 @@
+{
+  "hash": "01214325930417543624127130144",
+  "decodedHash": [
+    {
+      "0": 12
+    },
+    {
+      "1": 43
+    },
+    {
+      "2": 59
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 17
+    },
+    {
+      "5": 43
+    },
+    {
+      "6": 24
+    },
+    {
+      "12": 7
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 4
+    }
+  ],
+  "edition": 26,
+  "date": 1657392331482,
+  "attributes": [
+    {
+      "id": 12,
+      "layer": "_bg",
+      "name": "bg_orange",
+      "rarity": "rare"
+    },
+    {
+      "id": 43,
+      "layer": "_body",
+      "name": "smoking_pink",
+      "rarity": "original"
+    },
+    {
+      "id": 59,
+      "layer": "_body_props",
+      "name": "skate_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 17,
+      "layer": "_eyes",
+      "name": "eyes_mechanical",
+      "rarity": "rare"
+    },
+    {
+      "id": 43,
+      "layer": "_head",
+      "name": "hat_police",
+      "rarity": "original"
+    },
+    {
+      "id": 24,
+      "layer": "_eyes_props",
+      "name": "glass_stylized_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 7,
+      "layer": "_neck",
+      "name": "neck03_eth_diamond",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 4,
+      "layer": "_smoking",
+      "name": "smoking_cigar",
+      "rarity": "original"
+    }
+  ]
+}

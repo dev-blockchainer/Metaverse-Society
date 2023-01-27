@@ -1,0 +1,99 @@
+{
+  "hash": "06140224304350601271321143",
+  "decodedHash": [
+    {
+      "0": 6
+    },
+    {
+      "1": 40
+    },
+    {
+      "2": 24
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 3
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 7
+    },
+    {
+      "13": 21
+    },
+    {
+      "14": 3
+    }
+  ],
+  "edition": 50,
+  "date": 1657392416765,
+  "attributes": [
+    {
+      "id": 6,
+      "layer": "_bg",
+      "name": "bg_blue",
+      "rarity": "rare"
+    },
+    {
+      "id": 40,
+      "layer": "_body",
+      "name": "smoking_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 24,
+      "layer": "_body_props",
+      "name": "hoodie_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 3,
+      "layer": "_eyes",
+      "name": "eyes_eagle_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 7,
+      "layer": "_neck",
+      "name": "neck03_eth_diamond",
+      "rarity": "original"
+    },
+    {
+      "id": 21,
+      "layer": "_noise",
+      "name": "vertical_Spike_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_smoking",
+      "name": "hookah_gold",
+      "rarity": "original"
+    }
+  ]
+}

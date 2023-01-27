@@ -1,0 +1,108 @@
+{
+  "hash": "051352030455061612013014093",
+  "decodedHash": [
+    {
+      "0": 5
+    },
+    {
+      "1": 35
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 5
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 16
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 3
+    }
+  ],
+  "edition": 14,
+  "date": 1657392293263,
+  "attributes": [
+    {
+      "id": 5,
+      "layer": "_bg",
+      "name": "bg_australia",
+      "rarity": "rare"
+    },
+    {
+      "id": 35,
+      "layer": "_body",
+      "name": "smile_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 5,
+      "layer": "_eyes",
+      "name": "eyes_eagle_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 16,
+      "layer": "_eyes_props",
+      "name": "glass_cyclop_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 3,
+      "layer": "_goatee_smile",
+      "name": "smile_brown",
+      "rarity": "original"
+    }
+  ]
+}

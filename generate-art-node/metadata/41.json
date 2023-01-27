@@ -1,0 +1,99 @@
+{
+  "hash": "01614021130415570651201321145",
+  "decodedHash": [
+    {
+      "0": 16
+    },
+    {
+      "1": 40
+    },
+    {
+      "2": 11
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 15
+    },
+    {
+      "5": 70
+    },
+    {
+      "6": 5
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 21
+    },
+    {
+      "14": 5
+    }
+  ],
+  "edition": 41,
+  "date": 1657392384983,
+  "attributes": [
+    {
+      "id": 16,
+      "layer": "_bg",
+      "name": "bg_roo",
+      "rarity": "rare"
+    },
+    {
+      "id": 40,
+      "layer": "_body",
+      "name": "smoking_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 11,
+      "layer": "_body_props",
+      "name": "exoskeleton_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_eyes",
+      "name": "eyes_gold",
+      "rarity": "rare"
+    },
+    {
+      "id": 70,
+      "layer": "_head",
+      "name": "helmet_safety_white",
+      "rarity": "original"
+    },
+    {
+      "id": 5,
+      "layer": "_eyes_props",
+      "name": "blind_fold_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 21,
+      "layer": "_noise",
+      "name": "vertical_Spike_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 5,
+      "layer": "_smoking",
+      "name": "smoking_cigarette",
+      "rarity": "original"
+    }
+  ]
+}

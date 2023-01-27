@@ -1,0 +1,108 @@
+{
+  "hash": "041172813045506812013214080",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 17
+    },
+    {
+      "2": 81
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 5
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 8
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 2
+    },
+    {
+      "14": 0
+    },
+    {
+      "8": 0
+    }
+  ],
+  "edition": 46,
+  "date": 1657392402293,
+  "attributes": [
+    {
+      "id": 4,
+      "layer": "_bg",
+      "name": "bg_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 17,
+      "layer": "_body",
+      "name": "common_red",
+      "rarity": "original"
+    },
+    {
+      "id": 81,
+      "layer": "_body_props",
+      "name": "tank_top_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 5,
+      "layer": "_eyes",
+      "name": "eyes_eagle_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 8,
+      "layer": "_eyes_props",
+      "name": "glass_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_noise",
+      "name": "bull_piercing2_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_common",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

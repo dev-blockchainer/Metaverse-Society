@@ -1,0 +1,99 @@
+{
+  "hash": "0714426530485060120130147",
+  "decodedHash": [
+    {
+      "0": 7
+    },
+    {
+      "1": 44
+    },
+    {
+      "2": 65
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 8
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 7
+    }
+  ],
+  "edition": 37,
+  "date": 1657392367361,
+  "attributes": [
+    {
+      "id": 7,
+      "layer": "_bg",
+      "name": "bg_city",
+      "rarity": "rare"
+    },
+    {
+      "id": 44,
+      "layer": "_body",
+      "name": "smoking_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 65,
+      "layer": "_body_props",
+      "name": "sweatshirt_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 8,
+      "layer": "_eyes",
+      "name": "eyes_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 7,
+      "layer": "_smoking",
+      "name": "smoking_pipe",
+      "rarity": "original"
+    }
+  ]
+}

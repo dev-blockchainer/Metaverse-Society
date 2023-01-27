@@ -1,0 +1,108 @@
+{
+  "hash": "0131102723164235536112213714081",
+  "decodedHash": [
+    {
+      "0": 13
+    },
+    {
+      "1": 10
+    },
+    {
+      "2": 72
+    },
+    {
+      "3": 16
+    },
+    {
+      "4": 23
+    },
+    {
+      "5": 53
+    },
+    {
+      "6": 1
+    },
+    {
+      "12": 2
+    },
+    {
+      "13": 7
+    },
+    {
+      "14": 0
+    },
+    {
+      "8": 1
+    }
+  ],
+  "edition": 18,
+  "date": 1657392305967,
+  "attributes": [
+    {
+      "id": 13,
+      "layer": "_bg",
+      "name": "bg_pink",
+      "rarity": "rare"
+    },
+    {
+      "id": 10,
+      "layer": "_body",
+      "name": "common_black",
+      "rarity": "original"
+    },
+    {
+      "id": 72,
+      "layer": "_body_props",
+      "name": "sweat_shirt_red",
+      "rarity": "original"
+    },
+    {
+      "id": 16,
+      "layer": "_ears",
+      "name": "earring_Hoop_2",
+      "rarity": "original"
+    },
+    {
+      "id": 23,
+      "layer": "_eyes",
+      "name": "eyes_stoner",
+      "rarity": "original"
+    },
+    {
+      "id": 53,
+      "layer": "_head",
+      "name": "hat_steampunk_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "_eyes_props",
+      "name": "blind_fold_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "_neck",
+      "name": "chain necklace_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 7,
+      "layer": "_noise",
+      "name": "piercing_1_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_goatee_common",
+      "name": "common_blond",
+      "rarity": "original"
+    }
+  ]
+}

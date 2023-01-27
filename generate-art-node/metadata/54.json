@@ -1,0 +1,108 @@
+{
+  "hash": "081472133042250601215131140115",
+  "decodedHash": [
+    {
+      "0": 8
+    },
+    {
+      "1": 47
+    },
+    {
+      "2": 13
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 22
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 15
+    },
+    {
+      "13": 1
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 5
+    }
+  ],
+  "edition": 54,
+  "date": 1657392427942,
+  "attributes": [
+    {
+      "id": 8,
+      "layer": "_bg",
+      "name": "bg_eth",
+      "rarity": "rare"
+    },
+    {
+      "id": 47,
+      "layer": "_body",
+      "name": "tongue_black",
+      "rarity": "original"
+    },
+    {
+      "id": 13,
+      "layer": "_body_props",
+      "name": "exoskeleton_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 22,
+      "layer": "_eyes",
+      "name": "eyes_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_neck",
+      "name": "neclkace_Kangaroo_bronze",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "_noise",
+      "name": "bull_piercing2_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 5,
+      "layer": "_goatee_tongue",
+      "name": "tongue_red",
+      "rarity": "original"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "hash": "0818277315435416161220131014070",
+  "decodedHash": [
+    {
+      "0": 8
+    },
+    {
+      "1": 8
+    },
+    {
+      "2": 77
+    },
+    {
+      "3": 15
+    },
+    {
+      "4": 3
+    },
+    {
+      "5": 41
+    },
+    {
+      "6": 16
+    },
+    {
+      "12": 20
+    },
+    {
+      "13": 10
+    },
+    {
+      "14": 0
+    },
+    {
+      "7": 0
+    }
+  ],
+  "edition": 19,
+  "date": 1657392311851,
+  "attributes": [
+    {
+      "id": 8,
+      "layer": "_bg",
+      "name": "bg_eth",
+      "rarity": "rare"
+    },
+    {
+      "id": 8,
+      "layer": "_body",
+      "name": "angry_red",
+      "rarity": "original"
+    },
+    {
+      "id": 77,
+      "layer": "_body_props",
+      "name": "tank_top_black",
+      "rarity": "original"
+    },
+    {
+      "id": 15,
+      "layer": "_ears",
+      "name": "earring_Hoop",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_eyes",
+      "name": "eyes_eagle_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 41,
+      "layer": "_head",
+      "name": "hat_joker_yellow",
+      "rarity": "original"
+    },
+    {
+      "id": 16,
+      "layer": "_eyes_props",
+      "name": "glass_cyclop_green",
+      "rarity": "original"
+    },
+    {
+      "id": 20,
+      "layer": "_neck",
+      "name": "scarf_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 10,
+      "layer": "_noise",
+      "name": "piercing_2_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_angry",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

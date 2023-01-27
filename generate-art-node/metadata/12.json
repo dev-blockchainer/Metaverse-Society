@@ -1,0 +1,108 @@
+{
+  "hash": "017118227310420506261217131314081",
+  "decodedHash": [
+    {
+      "0": 17
+    },
+    {
+      "1": 18
+    },
+    {
+      "2": 27
+    },
+    {
+      "3": 10
+    },
+    {
+      "4": 20
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 26
+    },
+    {
+      "12": 17
+    },
+    {
+      "13": 13
+    },
+    {
+      "14": 0
+    },
+    {
+      "8": 1
+    }
+  ],
+  "edition": 12,
+  "date": 1657392286753,
+  "attributes": [
+    {
+      "id": 17,
+      "layer": "_bg",
+      "name": "bg_red",
+      "rarity": "original"
+    },
+    {
+      "id": 18,
+      "layer": "_body",
+      "name": "common_white",
+      "rarity": "original"
+    },
+    {
+      "id": 27,
+      "layer": "_body_props",
+      "name": "hoodie_stripes_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 10,
+      "layer": "_ears",
+      "name": "earring_Flash",
+      "rarity": "original"
+    },
+    {
+      "id": 20,
+      "layer": "_eyes",
+      "name": "eyes_rainbow",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 26,
+      "layer": "_eyes_props",
+      "name": "glass_thuglife",
+      "rarity": "original"
+    },
+    {
+      "id": 17,
+      "layer": "_neck",
+      "name": "neclkace_Kangaroo_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 13,
+      "layer": "_noise",
+      "name": "piercing_bone_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_goatee_common",
+      "name": "common_blond",
+      "rarity": "original"
+    }
+  ]
+}

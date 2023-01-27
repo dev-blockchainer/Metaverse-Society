@@ -1,0 +1,108 @@
+{
+  "hash": "071625830415572601215131914070",
+  "decodedHash": [
+    {
+      "0": 7
+    },
+    {
+      "1": 6
+    },
+    {
+      "2": 58
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 15
+    },
+    {
+      "5": 72
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 15
+    },
+    {
+      "13": 19
+    },
+    {
+      "14": 0
+    },
+    {
+      "7": 0
+    }
+  ],
+  "edition": 17,
+  "date": 1657392300996,
+  "attributes": [
+    {
+      "id": 7,
+      "layer": "_bg",
+      "name": "bg_city",
+      "rarity": "rare"
+    },
+    {
+      "id": 6,
+      "layer": "_body",
+      "name": "angry_pink",
+      "rarity": "original"
+    },
+    {
+      "id": 58,
+      "layer": "_body_props",
+      "name": "skate_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_eyes",
+      "name": "eyes_gold",
+      "rarity": "rare"
+    },
+    {
+      "id": 72,
+      "layer": "_head",
+      "name": "man_bun_hair",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_neck",
+      "name": "neclkace_Kangaroo_bronze",
+      "rarity": "original"
+    },
+    {
+      "id": 19,
+      "layer": "_noise",
+      "name": "vertical_Spike_colors",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_angry",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

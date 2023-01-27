@@ -1,0 +1,108 @@
+{
+  "hash": "09147242329425060120130140115",
+  "decodedHash": [
+    {
+      "0": 9
+    },
+    {
+      "1": 47
+    },
+    {
+      "2": 42
+    },
+    {
+      "3": 29
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 5
+    }
+  ],
+  "edition": 21,
+  "date": 1657392317512,
+  "attributes": [
+    {
+      "id": 9,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "rare"
+    },
+    {
+      "id": 47,
+      "layer": "_body",
+      "name": "tongue_black",
+      "rarity": "original"
+    },
+    {
+      "id": 42,
+      "layer": "_body_props",
+      "name": "plate_camouflage",
+      "rarity": "original"
+    },
+    {
+      "id": 29,
+      "layer": "_ears",
+      "name": "earring_skul_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "_eyes",
+      "name": "eyes_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 5,
+      "layer": "_goatee_tongue",
+      "name": "tongue_red",
+      "rarity": "original"
+    }
+  ]
+}

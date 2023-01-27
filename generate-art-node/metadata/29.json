@@ -1,0 +1,108 @@
+{
+  "hash": "0414920304550601219130140110",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 49
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 5
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 19
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 0
+    }
+  ],
+  "edition": 29,
+  "date": 1657392338738,
+  "attributes": [
+    {
+      "id": 4,
+      "layer": "_bg",
+      "name": "bg_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 49,
+      "layer": "_body",
+      "name": "tongue_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 5,
+      "layer": "_eyes",
+      "name": "eyes_eagle_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 19,
+      "layer": "_neck",
+      "name": "scarf_blues",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_tongue",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "hash": "041332031141564624128131714090",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 33
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 11
+    },
+    {
+      "4": 1
+    },
+    {
+      "5": 64
+    },
+    {
+      "6": 24
+    },
+    {
+      "12": 8
+    },
+    {
+      "13": 17
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 4,
+  "date": 1657392266716,
+  "attributes": [
+    {
+      "id": 4,
+      "layer": "_bg",
+      "name": "bg_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 33,
+      "layer": "_body",
+      "name": "smile_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 11,
+      "layer": "_ears",
+      "name": "earring_Flash_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "_eyes",
+      "name": "eyes_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 64,
+      "layer": "_head",
+      "name": "head_peaky_patternred",
+      "rarity": "original"
+    },
+    {
+      "id": 24,
+      "layer": "_eyes_props",
+      "name": "glass_stylized_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 8,
+      "layer": "_neck",
+      "name": "neck03_eth_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 17,
+      "layer": "_noise",
+      "name": "piercing_star_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "hash": "03145266354750601215130142",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 45
+    },
+    {
+      "2": 66
+    },
+    {
+      "3": 5
+    },
+    {
+      "4": 7
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 15
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 2
+    }
+  ],
+  "edition": 10,
+  "date": 1657392283021,
+  "attributes": [
+    {
+      "id": 3,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "original"
+    },
+    {
+      "id": 45,
+      "layer": "_body",
+      "name": "smoking_red",
+      "rarity": "original"
+    },
+    {
+      "id": 66,
+      "layer": "_body_props",
+      "name": "sweatshirt_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 5,
+      "layer": "_ears",
+      "name": "earring_bar_bel_black",
+      "rarity": "original"
+    },
+    {
+      "id": 7,
+      "layer": "_eyes",
+      "name": "eyes_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_neck",
+      "name": "neclkace_Kangaroo_bronze",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_smoking",
+      "name": "hookah_blue",
+      "rarity": "original"
+    }
+  ]
+}

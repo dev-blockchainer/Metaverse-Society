@@ -1,0 +1,108 @@
+{
+  "hash": "01713420304155060121213014090",
+  "decodedHash": [
+    {
+      "0": 17
+    },
+    {
+      "1": 34
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 15
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 12
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 11,
+  "date": 1657392284570,
+  "attributes": [
+    {
+      "id": 17,
+      "layer": "_bg",
+      "name": "bg_red",
+      "rarity": "original"
+    },
+    {
+      "id": 34,
+      "layer": "_body",
+      "name": "smile_pink",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_eyes",
+      "name": "eyes_gold",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 12,
+      "layer": "_neck",
+      "name": "necklace_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

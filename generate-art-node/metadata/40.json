@@ -1,0 +1,99 @@
+{
+  "hash": "01011924632141950601216133140",
+  "decodedHash": [
+    {
+      "0": 10
+    },
+    {
+      "1": 19
+    },
+    {
+      "2": 46
+    },
+    {
+      "3": 21
+    },
+    {
+      "4": 19
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 16
+    },
+    {
+      "13": 3
+    },
+    {
+      "14": 0
+    }
+  ],
+  "edition": 40,
+  "date": 1657392380949,
+  "attributes": [
+    {
+      "id": 10,
+      "layer": "_bg",
+      "name": "bg_matrix",
+      "rarity": "rare"
+    },
+    {
+      "id": 19,
+      "layer": "_body",
+      "name": "girafe",
+      "rarity": "rare"
+    },
+    {
+      "id": 46,
+      "layer": "_body_props",
+      "name": "shirt_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 21,
+      "layer": "_ears",
+      "name": "earring_kangaroo_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 19,
+      "layer": "_eyes",
+      "name": "eyes_qrcode",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 16,
+      "layer": "_neck",
+      "name": "neclkace_Kangaroo_chrome",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_noise",
+      "name": "bull_piercing_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

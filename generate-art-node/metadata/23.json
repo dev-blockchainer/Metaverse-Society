@@ -1,0 +1,108 @@
+{
+  "hash": "061225338411506612013114070",
+  "decodedHash": [
+    {
+      "0": 6
+    },
+    {
+      "1": 2
+    },
+    {
+      "2": 53
+    },
+    {
+      "3": 8
+    },
+    {
+      "4": 11
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 6
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 1
+    },
+    {
+      "14": 0
+    },
+    {
+      "7": 0
+    }
+  ],
+  "edition": 23,
+  "date": 1657392323128,
+  "attributes": [
+    {
+      "id": 6,
+      "layer": "_bg",
+      "name": "bg_blue",
+      "rarity": "rare"
+    },
+    {
+      "id": 2,
+      "layer": "_body",
+      "name": "angry_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 53,
+      "layer": "_body_props",
+      "name": "shirt_social_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 8,
+      "layer": "_ears",
+      "name": "earring_crucifix",
+      "rarity": "original"
+    },
+    {
+      "id": 11,
+      "layer": "_eyes",
+      "name": "eyes_cat",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 6,
+      "layer": "_eyes_props",
+      "name": "glass_aviator_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_noise",
+      "name": "bull_piercing2_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_angry",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

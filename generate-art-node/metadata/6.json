@@ -1,0 +1,108 @@
+{
+  "hash": "01111321630417506012713014080",
+  "decodedHash": [
+    {
+      "0": 11
+    },
+    {
+      "1": 13
+    },
+    {
+      "2": 16
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 17
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 7
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "8": 0
+    }
+  ],
+  "edition": 6,
+  "date": 1657392273892,
+  "attributes": [
+    {
+      "id": 11,
+      "layer": "_bg",
+      "name": "bg_meta",
+      "rarity": "rare"
+    },
+    {
+      "id": 13,
+      "layer": "_body",
+      "name": "common_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 16,
+      "layer": "_body_props",
+      "name": "gola_couro_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 17,
+      "layer": "_eyes",
+      "name": "eyes_mechanical",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 7,
+      "layer": "_neck",
+      "name": "neck03_eth_diamond",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_common",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

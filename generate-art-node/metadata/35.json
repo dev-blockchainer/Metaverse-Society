@@ -1,0 +1,99 @@
+{
+  "hash": "05142241304255206712201319145",
+  "decodedHash": [
+    {
+      "0": 5
+    },
+    {
+      "1": 42
+    },
+    {
+      "2": 41
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 25
+    },
+    {
+      "5": 20
+    },
+    {
+      "6": 7
+    },
+    {
+      "12": 20
+    },
+    {
+      "13": 19
+    },
+    {
+      "14": 5
+    }
+  ],
+  "edition": 35,
+  "date": 1657392358317,
+  "attributes": [
+    {
+      "id": 5,
+      "layer": "_bg",
+      "name": "bg_australia",
+      "rarity": "rare"
+    },
+    {
+      "id": 42,
+      "layer": "_body",
+      "name": "smoking_green",
+      "rarity": "original"
+    },
+    {
+      "id": 41,
+      "layer": "_body_props",
+      "name": "plate_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 25,
+      "layer": "_eyes",
+      "name": "eyes_viper_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 20,
+      "layer": "_head",
+      "name": "cap_rapper_green",
+      "rarity": "original"
+    },
+    {
+      "id": 7,
+      "layer": "_eyes_props",
+      "name": "glass_aviator_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 20,
+      "layer": "_neck",
+      "name": "scarf_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 19,
+      "layer": "_noise",
+      "name": "vertical_Spike_colors",
+      "rarity": "original"
+    },
+    {
+      "id": 5,
+      "layer": "_smoking",
+      "name": "smoking_cigarette",
+      "rarity": "original"
+    }
+  ]
+}

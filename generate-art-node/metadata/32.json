@@ -1,0 +1,99 @@
+{
+  "hash": "071412343284155860120130143",
+  "decodedHash": [
+    {
+      "0": 7
+    },
+    {
+      "1": 41
+    },
+    {
+      "2": 34
+    },
+    {
+      "3": 28
+    },
+    {
+      "4": 15
+    },
+    {
+      "5": 8
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 3
+    }
+  ],
+  "edition": 32,
+  "date": 1657392345728,
+  "attributes": [
+    {
+      "id": 7,
+      "layer": "_bg",
+      "name": "bg_city",
+      "rarity": "rare"
+    },
+    {
+      "id": 41,
+      "layer": "_body",
+      "name": "smoking_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 34,
+      "layer": "_body_props",
+      "name": "jacket_fur_leopard",
+      "rarity": "original"
+    },
+    {
+      "id": 28,
+      "layer": "_ears",
+      "name": "earring_skul_dark",
+      "rarity": "original"
+    },
+    {
+      "id": 15,
+      "layer": "_eyes",
+      "name": "eyes_gold",
+      "rarity": "rare"
+    },
+    {
+      "id": 8,
+      "layer": "_head",
+      "name": "bull_horns_middle_futuristic2",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 3,
+      "layer": "_smoking",
+      "name": "hookah_gold",
+      "rarity": "original"
+    }
+  ]
+}

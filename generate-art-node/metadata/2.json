@@ -1,0 +1,99 @@
+{
+  "hash": "0314023230425616241211134141",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 40
+    },
+    {
+      "2": 32
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 61
+    },
+    {
+      "6": 24
+    },
+    {
+      "12": 11
+    },
+    {
+      "13": 4
+    },
+    {
+      "14": 1
+    }
+  ],
+  "edition": 2,
+  "date": 1657392261016,
+  "attributes": [
+    {
+      "id": 3,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "original"
+    },
+    {
+      "id": 40,
+      "layer": "_body",
+      "name": "smoking_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 32,
+      "layer": "_body_props",
+      "name": "jacket_fur_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_eyes",
+      "name": "eyes_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 61,
+      "layer": "_head",
+      "name": "head_cowboy_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 24,
+      "layer": "_eyes_props",
+      "name": "glass_stylized_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 11,
+      "layer": "_neck",
+      "name": "necklace_kangaroo_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "_noise",
+      "name": "bull_piercing_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "_smoking",
+      "name": "btc coin",
+      "rarity": "original"
+    }
+  ]
+}

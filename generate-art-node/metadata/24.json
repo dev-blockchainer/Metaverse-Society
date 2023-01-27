@@ -1,0 +1,99 @@
+{
+  "hash": "021452031542655265121133146",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 45
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 15
+    },
+    {
+      "4": 26
+    },
+    {
+      "5": 52
+    },
+    {
+      "6": 5
+    },
+    {
+      "12": 1
+    },
+    {
+      "13": 3
+    },
+    {
+      "14": 6
+    }
+  ],
+  "edition": 24,
+  "date": 1657392325795,
+  "attributes": [
+    {
+      "id": 2,
+      "layer": "_bg",
+      "name": "bg_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 45,
+      "layer": "_body",
+      "name": "smoking_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 15,
+      "layer": "_ears",
+      "name": "earring_Hoop",
+      "rarity": "original"
+    },
+    {
+      "id": 26,
+      "layer": "_eyes",
+      "name": "eyes_viper_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 52,
+      "layer": "_head",
+      "name": "hat_santa_kangaroo",
+      "rarity": "original"
+    },
+    {
+      "id": 5,
+      "layer": "_eyes_props",
+      "name": "blind_fold_red",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "_neck",
+      "name": "chain necklace_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_noise",
+      "name": "bull_piercing_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 6,
+      "layer": "_smoking",
+      "name": "smoking_cigarette02",
+      "rarity": "original"
+    }
+  ]
+}

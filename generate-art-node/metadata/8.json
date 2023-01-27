@@ -1,0 +1,99 @@
+{
+  "hash": "021422031949506012121321142",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 42
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 19
+    },
+    {
+      "4": 9
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 12
+    },
+    {
+      "13": 21
+    },
+    {
+      "14": 2
+    }
+  ],
+  "edition": 8,
+  "date": 1657392277816,
+  "attributes": [
+    {
+      "id": 2,
+      "layer": "_bg",
+      "name": "bg_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 42,
+      "layer": "_body",
+      "name": "smoking_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 19,
+      "layer": "_ears",
+      "name": "earring_hoop_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 9,
+      "layer": "_eyes",
+      "name": "eyes_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 12,
+      "layer": "_neck",
+      "name": "necklace_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 21,
+      "layer": "_noise",
+      "name": "vertical_Spike_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "_smoking",
+      "name": "hookah_blue",
+      "rarity": "original"
+    }
+  ]
+}

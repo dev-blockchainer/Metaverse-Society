@@ -1,0 +1,117 @@
+{
+  "hash": "0213627330413543612124131610014090",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 36
+    },
+    {
+      "2": 73
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 13
+    },
+    {
+      "5": 43
+    },
+    {
+      "6": 12
+    },
+    {
+      "12": 4
+    },
+    {
+      "13": 16
+    },
+    {
+      "10": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 38,
+  "date": 1657392372542,
+  "attributes": [
+    {
+      "id": 2,
+      "layer": "_bg",
+      "name": "bg_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 36,
+      "layer": "_body",
+      "name": "smile_red",
+      "rarity": "original"
+    },
+    {
+      "id": 73,
+      "layer": "_body_props",
+      "name": "swetshirt_levis_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 13,
+      "layer": "_eyes",
+      "name": "eyes_eth",
+      "rarity": "rare"
+    },
+    {
+      "id": 43,
+      "layer": "_head",
+      "name": "hat_police",
+      "rarity": "original"
+    },
+    {
+      "id": 12,
+      "layer": "_eyes_props",
+      "name": "glass_corzi_Blue",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "_neck",
+      "name": "neck02_eth_diamond_black",
+      "rarity": "original"
+    },
+    {
+      "id": 16,
+      "layer": "_noise",
+      "name": "piercing_bullball_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "hash": "013129203048506012713014090",
+  "decodedHash": [
+    {
+      "0": 13
+    },
+    {
+      "1": 29
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 8
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 7
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 1,
+  "date": 1657392257265,
+  "attributes": [
+    {
+      "id": 13,
+      "layer": "_bg",
+      "name": "bg_pink",
+      "rarity": "rare"
+    },
+    {
+      "id": 29,
+      "layer": "_body",
+      "name": "smile_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 8,
+      "layer": "_eyes",
+      "name": "eyes_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 7,
+      "layer": "_neck",
+      "name": "neck03_eth_diamond",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

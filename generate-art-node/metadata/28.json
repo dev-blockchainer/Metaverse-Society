@@ -1,0 +1,108 @@
+{
+  "hash": "0141312433043506012013014090",
+  "decodedHash": [
+    {
+      "0": 14
+    },
+    {
+      "1": 31
+    },
+    {
+      "2": 43
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 3
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 28,
+  "date": 1657392336869,
+  "attributes": [
+    {
+      "id": 14,
+      "layer": "_bg",
+      "name": "bg_purple",
+      "rarity": "rare"
+    },
+    {
+      "id": 31,
+      "layer": "_body",
+      "name": "smile_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 43,
+      "layer": "_body_props",
+      "name": "plate_camouflage2",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 3,
+      "layer": "_eyes",
+      "name": "eyes_eagle_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

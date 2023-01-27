@@ -1,0 +1,99 @@
+{
+  "hash": "01512220313411506251201311140",
+  "decodedHash": [
+    {
+      "0": 15
+    },
+    {
+      "1": 22
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 13
+    },
+    {
+      "4": 11
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 25
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 11
+    },
+    {
+      "14": 0
+    }
+  ],
+  "edition": 13,
+  "date": 1657392290981,
+  "attributes": [
+    {
+      "id": 15,
+      "layer": "_bg",
+      "name": "bg_rainbow",
+      "rarity": "rare"
+    },
+    {
+      "id": 22,
+      "layer": "_body",
+      "name": "leopard",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 13,
+      "layer": "_ears",
+      "name": "earring_heart_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 11,
+      "layer": "_eyes",
+      "name": "eyes_cat",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 25,
+      "layer": "_eyes_props",
+      "name": "glass_stylized_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 11,
+      "layer": "_noise",
+      "name": "piercing_3_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

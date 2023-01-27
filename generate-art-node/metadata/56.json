@@ -1,0 +1,117 @@
+{
+  "hash": "0515227930425516012131318100140111",
+  "decodedHash": [
+    {
+      "0": 5
+    },
+    {
+      "1": 52
+    },
+    {
+      "2": 79
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 51
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 13
+    },
+    {
+      "13": 18
+    },
+    {
+      "10": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 1
+    }
+  ],
+  "edition": 56,
+  "date": 1657392438070,
+  "attributes": [
+    {
+      "id": 5,
+      "layer": "_bg",
+      "name": "bg_australia",
+      "rarity": "rare"
+    },
+    {
+      "id": 52,
+      "layer": "_body",
+      "name": "tongue_pink",
+      "rarity": "original"
+    },
+    {
+      "id": 79,
+      "layer": "_body_props",
+      "name": "tank_top_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_eyes",
+      "name": "eyes_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 51,
+      "layer": "_head",
+      "name": "hat_santa_green",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 13,
+      "layer": "_neck",
+      "name": "neck_eth_diamond",
+      "rarity": "original"
+    },
+    {
+      "id": 18,
+      "layer": "_noise",
+      "name": "piercing_star_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_goatee_tongue",
+      "name": "tongue_blond",
+      "rarity": "original"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "hash": "0614627730425060121130147",
+  "decodedHash": [
+    {
+      "0": 6
+    },
+    {
+      "1": 46
+    },
+    {
+      "2": 77
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 1
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 7
+    }
+  ],
+  "edition": 55,
+  "date": 1657392432651,
+  "attributes": [
+    {
+      "id": 6,
+      "layer": "_bg",
+      "name": "bg_blue",
+      "rarity": "rare"
+    },
+    {
+      "id": 46,
+      "layer": "_body",
+      "name": "smoking_white",
+      "rarity": "original"
+    },
+    {
+      "id": 77,
+      "layer": "_body_props",
+      "name": "tank_top_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_eyes",
+      "name": "eyes_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_neck",
+      "name": "chain necklace_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 7,
+      "layer": "_smoking",
+      "name": "smoking_pipe",
+      "rarity": "original"
+    }
+  ]
+}

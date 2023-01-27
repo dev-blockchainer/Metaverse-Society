@@ -1,0 +1,99 @@
+{
+  "hash": "0714427322412516601218134143",
+  "decodedHash": [
+    {
+      "0": 7
+    },
+    {
+      "1": 44
+    },
+    {
+      "2": 7
+    },
+    {
+      "3": 22
+    },
+    {
+      "4": 12
+    },
+    {
+      "5": 16
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 18
+    },
+    {
+      "13": 4
+    },
+    {
+      "14": 3
+    }
+  ],
+  "edition": 3,
+  "date": 1657392264171,
+  "attributes": [
+    {
+      "id": 7,
+      "layer": "_bg",
+      "name": "bg_city",
+      "rarity": "rare"
+    },
+    {
+      "id": 44,
+      "layer": "_body",
+      "name": "smoking_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 7,
+      "layer": "_body_props",
+      "name": "basketball_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 22,
+      "layer": "_ears",
+      "name": "earring_peace",
+      "rarity": "original"
+    },
+    {
+      "id": 12,
+      "layer": "_eyes",
+      "name": "eyes_diamond",
+      "rarity": "rare"
+    },
+    {
+      "id": 16,
+      "layer": "_head",
+      "name": "cap_australian_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 18,
+      "layer": "_neck",
+      "name": "scarf_black",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "_noise",
+      "name": "bull_piercing_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_smoking",
+      "name": "hookah_gold",
+      "rarity": "original"
+    }
+  ]
+}

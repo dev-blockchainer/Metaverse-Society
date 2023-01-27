@@ -1,0 +1,108 @@
+{
+  "hash": "01013244313445406012013014070",
+  "decodedHash": [
+    {
+      "0": 10
+    },
+    {
+      "1": 3
+    },
+    {
+      "2": 44
+    },
+    {
+      "3": 13
+    },
+    {
+      "4": 4
+    },
+    {
+      "5": 40
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "7": 0
+    }
+  ],
+  "edition": 39,
+  "date": 1657392375693,
+  "attributes": [
+    {
+      "id": 10,
+      "layer": "_bg",
+      "name": "bg_matrix",
+      "rarity": "rare"
+    },
+    {
+      "id": 3,
+      "layer": "_body",
+      "name": "angry_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 44,
+      "layer": "_body_props",
+      "name": "plate_camouflage3",
+      "rarity": "original"
+    },
+    {
+      "id": 13,
+      "layer": "_ears",
+      "name": "earring_heart_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "_eyes",
+      "name": "eyes_eagle_green",
+      "rarity": "original"
+    },
+    {
+      "id": 40,
+      "layer": "_head",
+      "name": "hat_joker_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_angry",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "hash": "0151492034435063120132140111",
+  "decodedHash": [
+    {
+      "0": 15
+    },
+    {
+      "1": 49
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 4
+    },
+    {
+      "4": 3
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 3
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 2
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 1
+    }
+  ],
+  "edition": 9,
+  "date": 1657392280271,
+  "attributes": [
+    {
+      "id": 15,
+      "layer": "_bg",
+      "name": "bg_rainbow",
+      "rarity": "rare"
+    },
+    {
+      "id": 49,
+      "layer": "_body",
+      "name": "tongue_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 4,
+      "layer": "_ears",
+      "name": "earring_bar_bell_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_eyes",
+      "name": "eyes_eagle_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 3,
+      "layer": "_eyes_props",
+      "name": "blind_fold_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_noise",
+      "name": "bull_piercing2_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_goatee_tongue",
+      "name": "tongue_blond",
+      "rarity": "original"
+    }
+  ]
+}

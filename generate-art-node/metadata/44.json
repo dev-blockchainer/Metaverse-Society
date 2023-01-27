@@ -1,0 +1,99 @@
+{
+  "hash": "017141233314421506111222130142",
+  "decodedHash": [
+    {
+      "0": 17
+    },
+    {
+      "1": 41
+    },
+    {
+      "2": 33
+    },
+    {
+      "3": 14
+    },
+    {
+      "4": 21
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 11
+    },
+    {
+      "12": 22
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 2
+    }
+  ],
+  "edition": 44,
+  "date": 1657392394670,
+  "attributes": [
+    {
+      "id": 17,
+      "layer": "_bg",
+      "name": "bg_red",
+      "rarity": "original"
+    },
+    {
+      "id": 41,
+      "layer": "_body",
+      "name": "smoking_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 33,
+      "layer": "_body_props",
+      "name": "jacket_fur_brown",
+      "rarity": "original"
+    },
+    {
+      "id": 14,
+      "layer": "_ears",
+      "name": "earring_heart_rose",
+      "rarity": "original"
+    },
+    {
+      "id": 21,
+      "layer": "_eyes",
+      "name": "eyes_zebra",
+      "rarity": "rare"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 11,
+      "layer": "_eyes_props",
+      "name": "glass_circular_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 22,
+      "layer": "_neck",
+      "name": "scarf_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_smoking",
+      "name": "hookah_blue",
+      "rarity": "original"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "hash": "03138203041050620120134146",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 38
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 10
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 20
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 4
+    },
+    {
+      "14": 6
+    }
+  ],
+  "edition": 51,
+  "date": 1657392418999,
+  "attributes": [
+    {
+      "id": 3,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "original"
+    },
+    {
+      "id": 38,
+      "layer": "_body",
+      "name": "smoking_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 10,
+      "layer": "_eyes",
+      "name": "eyes_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 20,
+      "layer": "_eyes_props",
+      "name": "glass_heart_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 4,
+      "layer": "_noise",
+      "name": "bull_piercing_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 6,
+      "layer": "_smoking",
+      "name": "smoking_cigarette02",
+      "rarity": "original"
+    }
+  ]
+}

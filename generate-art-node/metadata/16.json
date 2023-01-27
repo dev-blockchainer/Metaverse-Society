@@ -1,0 +1,108 @@
+{
+  "hash": "015133220334255060121813014090",
+  "decodedHash": [
+    {
+      "0": 15
+    },
+    {
+      "1": 33
+    },
+    {
+      "2": 20
+    },
+    {
+      "3": 3
+    },
+    {
+      "4": 25
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 18
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 16,
+  "date": 1657392297961,
+  "attributes": [
+    {
+      "id": 15,
+      "layer": "_bg",
+      "name": "bg_rainbow",
+      "rarity": "rare"
+    },
+    {
+      "id": 33,
+      "layer": "_body",
+      "name": "smile_green",
+      "rarity": "original"
+    },
+    {
+      "id": 20,
+      "layer": "_body_props",
+      "name": "hoodie_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "_ears",
+      "name": "earring_bar_bell_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 25,
+      "layer": "_eyes",
+      "name": "eyes_viper_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 18,
+      "layer": "_neck",
+      "name": "scarf_black",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

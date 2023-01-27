@@ -1,0 +1,117 @@
+{
+  "hash": "0415526630415060120130100140110",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 55
+    },
+    {
+      "2": 66
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 1
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "10": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 0
+    }
+  ],
+  "edition": 36,
+  "date": 1657392363402,
+  "attributes": [
+    {
+      "id": 4,
+      "layer": "_bg",
+      "name": "bg_orange",
+      "rarity": "original"
+    },
+    {
+      "id": 55,
+      "layer": "_body",
+      "name": "tongue_white",
+      "rarity": "original"
+    },
+    {
+      "id": 66,
+      "layer": "_body_props",
+      "name": "sweatshirt_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 1,
+      "layer": "_eyes",
+      "name": "eyes_blue",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_tongue",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

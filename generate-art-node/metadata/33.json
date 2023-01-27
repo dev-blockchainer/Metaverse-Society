@@ -1,0 +1,99 @@
+{
+  "hash": "0512227132413550601210130140",
+  "decodedHash": [
+    {
+      "0": 5
+    },
+    {
+      "1": 22
+    },
+    {
+      "2": 71
+    },
+    {
+      "3": 2
+    },
+    {
+      "4": 13
+    },
+    {
+      "5": 50
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 10
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    }
+  ],
+  "edition": 33,
+  "date": 1657392350093,
+  "attributes": [
+    {
+      "id": 5,
+      "layer": "_bg",
+      "name": "bg_australia",
+      "rarity": "rare"
+    },
+    {
+      "id": 22,
+      "layer": "_body",
+      "name": "leopard",
+      "rarity": "rare"
+    },
+    {
+      "id": 71,
+      "layer": "_body_props",
+      "name": "sweat_shirt_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "_ears",
+      "name": "earrings_cross_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 13,
+      "layer": "_eyes",
+      "name": "eyes_eth",
+      "rarity": "rare"
+    },
+    {
+      "id": 50,
+      "layer": "_head",
+      "name": "hat_santa",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 10,
+      "layer": "_neck",
+      "name": "necklace_kangaroo_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

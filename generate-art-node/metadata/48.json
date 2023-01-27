@@ -1,0 +1,108 @@
+{
+  "hash": "0121452133041055060120130100146",
+  "decodedHash": [
+    {
+      "0": 12
+    },
+    {
+      "1": 45
+    },
+    {
+      "2": 13
+    },
+    {
+      "3": 0
+    },
+    {
+      "4": 10
+    },
+    {
+      "5": 50
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 0
+    },
+    {
+      "10": 0
+    },
+    {
+      "14": 6
+    }
+  ],
+  "edition": 48,
+  "date": 1657392409052,
+  "attributes": [
+    {
+      "id": 12,
+      "layer": "_bg",
+      "name": "bg_orange",
+      "rarity": "rare"
+    },
+    {
+      "id": 45,
+      "layer": "_body",
+      "name": "smoking_red",
+      "rarity": "original"
+    },
+    {
+      "id": 13,
+      "layer": "_body_props",
+      "name": "exoskeleton_red",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_ears",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 10,
+      "layer": "_eyes",
+      "name": "eyes_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 50,
+      "layer": "_head",
+      "name": "hat_santa",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 6,
+      "layer": "_smoking",
+      "name": "smoking_cigarette02",
+      "rarity": "original"
+    }
+  ]
+}

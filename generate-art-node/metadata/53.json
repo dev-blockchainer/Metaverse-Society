@@ -1,0 +1,108 @@
+{
+  "hash": "017132203284225626012013214090",
+  "decodedHash": [
+    {
+      "0": 17
+    },
+    {
+      "1": 32
+    },
+    {
+      "2": 0
+    },
+    {
+      "3": 28
+    },
+    {
+      "4": 22
+    },
+    {
+      "5": 62
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 0
+    },
+    {
+      "13": 2
+    },
+    {
+      "14": 0
+    },
+    {
+      "9": 0
+    }
+  ],
+  "edition": 53,
+  "date": 1657392424809,
+  "attributes": [
+    {
+      "id": 17,
+      "layer": "_bg",
+      "name": "bg_red",
+      "rarity": "original"
+    },
+    {
+      "id": 32,
+      "layer": "_body",
+      "name": "smile_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_body_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 28,
+      "layer": "_ears",
+      "name": "earring_skul_dark",
+      "rarity": "original"
+    },
+    {
+      "id": 22,
+      "layer": "_eyes",
+      "name": "eyes_red",
+      "rarity": "original"
+    },
+    {
+      "id": 62,
+      "layer": "_head",
+      "name": "head_peaky_chess",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_neck",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 2,
+      "layer": "_noise",
+      "name": "bull_piercing2_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_smile",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

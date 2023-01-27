@@ -1,0 +1,108 @@
+{
+  "hash": "091532763224105060123130140110",
+  "decodedHash": [
+    {
+      "0": 9
+    },
+    {
+      "1": 53
+    },
+    {
+      "2": 76
+    },
+    {
+      "3": 22
+    },
+    {
+      "4": 10
+    },
+    {
+      "5": 0
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 3
+    },
+    {
+      "13": 0
+    },
+    {
+      "14": 0
+    },
+    {
+      "11": 0
+    }
+  ],
+  "edition": 20,
+  "date": 1657392315254,
+  "attributes": [
+    {
+      "id": 9,
+      "layer": "_bg",
+      "name": "bg_green",
+      "rarity": "rare"
+    },
+    {
+      "id": 53,
+      "layer": "_body",
+      "name": "tongue_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 76,
+      "layer": "_body_props",
+      "name": "swetshirt_levis_yellow",
+      "rarity": "original"
+    },
+    {
+      "id": 22,
+      "layer": "_ears",
+      "name": "earring_peace",
+      "rarity": "original"
+    },
+    {
+      "id": 10,
+      "layer": "_eyes",
+      "name": "eyes_purple",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_head",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 3,
+      "layer": "_neck",
+      "name": "neck02_eth_diamond",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_noise",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 0,
+      "layer": "_goatee_tongue",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}

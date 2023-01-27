@@ -1,0 +1,99 @@
+{
+  "hash": "016119215333475616012171316140",
+  "decodedHash": [
+    {
+      "0": 16
+    },
+    {
+      "1": 19
+    },
+    {
+      "2": 15
+    },
+    {
+      "3": 33
+    },
+    {
+      "4": 7
+    },
+    {
+      "5": 61
+    },
+    {
+      "6": 0
+    },
+    {
+      "12": 17
+    },
+    {
+      "13": 16
+    },
+    {
+      "14": 0
+    }
+  ],
+  "edition": 5,
+  "date": 1657392269417,
+  "attributes": [
+    {
+      "id": 16,
+      "layer": "_bg",
+      "name": "bg_roo",
+      "rarity": "rare"
+    },
+    {
+      "id": 19,
+      "layer": "_body",
+      "name": "girafe",
+      "rarity": "rare"
+    },
+    {
+      "id": 15,
+      "layer": "_body_props",
+      "name": "gola_couro_black",
+      "rarity": "original"
+    },
+    {
+      "id": 33,
+      "layer": "_ears",
+      "name": "square_diamond_green",
+      "rarity": "original"
+    },
+    {
+      "id": 7,
+      "layer": "_eyes",
+      "name": "eyes_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 61,
+      "layer": "_head",
+      "name": "head_cowboy_gray",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_eyes_props",
+      "name": "None",
+      "rarity": ""
+    },
+    {
+      "id": 17,
+      "layer": "_neck",
+      "name": "neclkace_Kangaroo_gold",
+      "rarity": "original"
+    },
+    {
+      "id": 16,
+      "layer": "_noise",
+      "name": "piercing_bullball_silver",
+      "rarity": "original"
+    },
+    {
+      "id": 0,
+      "layer": "_smoking",
+      "name": "None",
+      "rarity": ""
+    }
+  ]
+}
